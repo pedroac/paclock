@@ -1,0 +1,3 @@
+#%PAM-1.0
+# What paclock checks the password against: the same as logging in.
+auth       include      system-auth
